@@ -1,0 +1,1 @@
+For each department, how many students majoring in CS have taken a database course? Only include departments with at least two such students.
